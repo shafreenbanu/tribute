@@ -1,0 +1,54 @@
+div.main-body {
+    background-image: url(./IMG-20231005-WA0100.jpg);
+    height: 100vh;
+    width:100%;
+    background-position: center;
+    position: relative;
+    text-align:right;
+    font-family: cursive;
+    background-size: cover;
+    padding-right: 40px;
+
+}
+
+a{
+    font-size:130%;
+    font-style:italic;
+    color:#b1abb8;
+    padding-right:40px;
+    text-align:justify;
+}
+header{
+    font-weight: bold;
+    font-size: 40px;
+    color:#0c0c0e;
+    font-family:'Times New Roman', Times, serif;
+    padding:10px;
+
+
+}
+
+.imgMain{
+    display:block;
+    margin:auto;
+}    
+section{
+    font-family: cursive;
+    font-size:20px;
+}
+
+h1{
+    color: rgb(236, 216, 226);
+    padding-right: 120px;
+    padding-top: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color:rgb(153, 139, 142)
+}
+
+h3 {
+    font-style:cursive;
+    text-align: center;
+}
